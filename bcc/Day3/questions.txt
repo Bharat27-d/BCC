@@ -1,0 +1,1 @@
+WAP to accept any character and check the entered charcater is upper case or lower case digit and special symbol

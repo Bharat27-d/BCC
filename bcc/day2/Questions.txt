@@ -1,0 +1,15 @@
+1. WAP to Accept any one digit and check pos neg or zero
+2. ASk user a day and if its between monday to friday then working day else off day
+3. WAP to accept threee paper marks and calculate total marks, percentage an check if percentage is greater then or equal to 60 the he/she is elgible for placement
+4. wap to accept 5 no. in 5 different variable and check maximum value and print using simple if
+
+
+## NESTED IF else
+
+5. WAP to accept 3 numbers and check maximum number using nested if else
+6. WAP to if percentage is greator than 90 so assign grade A if percentage grartor than 80 then assign B if percentage greator than 60 assing C if percentage is below 60 so fail
+7. ATM Withdrawll system
+    RealLife analogy : ATM checks is the balnce is enough before giving cash
+    PS :- Take account balance and withdraww amout as input 
+    Condition :- if withdraww amount <= balance - transscatin done
+    otherwise insufficient
